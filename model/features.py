@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-from utils.deconvolution import torch_richardson_lucy
+from cider.utils.deconvolution import torch_richardson_lucy
 
 
 class Conv(nn.Module):
