@@ -9,6 +9,14 @@ Non-blind deconvolution aims to restore a sharp image from its blurred counterpa
 ![cider](figures/diagram.png)
 
 
+## Code execution
+
+Since the model is optimised on each input image separately, the hyperparameters in the file need to be set based on the image properties.
+
+```
+python cider.py
+```
+
 ## Cite
 Please cite our work if you find it useful to your research.
 ```
