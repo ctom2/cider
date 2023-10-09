@@ -8,3 +8,15 @@ Non-blind deconvolution aims to restore a sharp image from its blurred counterpa
 
 ![cider](figures/diagram.png)
 
+## Cite
+Please cite our work if you find it useful to your research.
+```
+@InProceedings{Chobola_2023_ICCV,
+    author    = {Chobola, Tom\'a\v{s} and M\"uller, Gesine and Dausmann, Veit and Theileis, Anton and Taucher, Jan and Huisken, Jan and Peng, Tingying},
+    title     = {Leveraging Classic Deconvolution and Feature Extraction in Zero-Shot Image Restoration},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {3874-3883}
+}
+```
